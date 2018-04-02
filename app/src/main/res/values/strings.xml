@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FabSubmenuNativo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fale_conosco">FaleConoscoActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
