@@ -1,6 +1,6 @@
 
 
-<h1 align="center">FLoating Action Button Submenu Custom</h1>
+<h1 align="center">Android Floating Action Button Submenu Custom</h1>
 <p align="center">
   <img width="200"  src="https://raw.githubusercontent.com/danielsidev/fabsubmenunativo/master/app/src/main/res/drawable/screenshot/Screenshot_20180402-194231.png">
 </p>
